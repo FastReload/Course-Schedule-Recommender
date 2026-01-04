@@ -140,3 +140,7 @@ The full list lives in `.env.example`, but the important ones are:
 - `.env` is ignored (only `.env.example` should be committed)
 - `.venv/`, `__pycache__/`, and other local artifacts are ignored
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
