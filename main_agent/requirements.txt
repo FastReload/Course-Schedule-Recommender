@@ -1,0 +1,5 @@
+google-adk>=1.21.0
+google-cloud-aiplatform>=1.125.0
+google-cloud-bigquery>=3.39.0
+python-dotenv>=1.2.0
+streamlit>=1.41.0
